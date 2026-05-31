@@ -18,3 +18,19 @@ menggunakan PHP dengan MySQLi **procedural** dan prepared statement.
 2. Import `database.sql` melalui phpMyAdmin.
 3. Sesuaikan konfigurasi koneksi di `db.php` jika user/password MySQL Anda berbeda.
 4. Buka browser dan akses: `http://localhost/RTZ-Aplikasi-Mini-CRUD/index.php`.
+
+## Screenshot Hasil Program
+
+Berikut adalah tampilan aplikasi saat dijalankan di localhost:
+
+### 1. Halaman Index - Daftar Peralatan (Read)
+![Halaman Index](screenshots/01_index_list.png)
+
+### 2. Halaman Tambah Data (Create)
+![Halaman Create](screenshots/02_create_form.png)
+
+### 3. Halaman Edit Data (Update)
+![Halaman Edit](screenshots/03_edit_form.png)
+
+### 4. Pesan Error Handling
+![Error Handling](screenshots/04_error_handling.png)
